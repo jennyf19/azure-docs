@@ -257,6 +257,8 @@
                 href: msal-net-system-browser-android-considerations.md
               - name: Xamarin iOS
                 href: msal-net-xamarin-ios-considerations.md
+              - name: Brokered Authentication on iOS 13
+                href: msal-net-broker-auth-ios13.md
               - name: Universal Windows Platform
                 href: msal-net-uwp-considerations.md              
             - name: MSAL.js
